@@ -209,7 +209,7 @@ INSERT INTO `rating` (`id`, `userId`, `rating`, `comment`, `teamId`) VALUES
 (3, '2', '4', 'dcdasda', '1'),
 (4, '2', '5', 'sadsadsad', '1'),
 (5, '3', '5', 'sdsadasdsad', '1'),
-(6, '3', '5', 'this is a best Team on this platform', '3'),
+(6, '3', '5', 'this is the best Team on this platform', '3'),
 (7, '3', '5', 'gfgfghfghf', '4'),
 (8, '4', '5', 'hi thhsoadjkasdl', '4');
 
